@@ -46,11 +46,16 @@ https://drive.google.com/file/d/1b0X_aQqSF5SOPdDyzEjX4gbdZnkROepm/view?usp=shari
 ---
 
 ## 🧠 Business Questions Answered
-- How has EV adoption changed over time?
-- Which manufacturers dominate the EV market?
-- What is the proportion of BEV vs PHEV vehicles?
-- Which regions show the highest EV adoption?
-- How does electric range vary by manufacturer and model?
+• Interactive charts and visuals for easy data understanding
+• KPI cards to track key performance metrics at a glance
+• Filters and slicers for dynamic data exploration
+• Cross-filtering between visuals for deeper insights
+• Real-time data refresh and live dashboard updates
+• Custom themes, colors, and layouts for better UI/UX
+• Drill-down and drill-through for detailed analysis
+• Geographic maps for location-based insights
+• AI insights and Q&A for natural language analysis
+• Secure sharing and collaboration with role-based access
 
 ---
 ## Dashboard Access
